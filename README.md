@@ -13,7 +13,7 @@ This project is a web-based sentiment analysis tool that classifies movie review
 
 The app is deployed and accessible on **Streamlit Cloud**:
 
-👉 [Launch the App](https://your-streamlit-cloud-url.streamlit.app)
+👉 [Launch the App](https://movie-sentiment-classification-ht95vxbao2put8ghze89n3.streamlit.app/)
 
 
 ## 🧠 Model Details
