@@ -5,7 +5,7 @@ This project is a web-based sentiment analysis tool that classifies movie review
 ## 🚀 Features
 
 - Classifies movie reviews into **Positive** or **Negative** sentiment
-- Uses a pre-trained LSTM model trained on the IMDb dataset
+- Uses a pre-trained Simple RNN model trained on the IMDb dataset
 - Real-time prediction with confidence score
 - Clean and interactive UI built with Streamlit
 
